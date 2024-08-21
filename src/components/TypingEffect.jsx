@@ -26,16 +26,20 @@ const TypingEffect = () => {
 
   return (
     <h3
-  className="text-8xl font-bold leading-tight text-red-500 mb-20 ml-[13vw] "
-  style={{
-    fontFamily: 'Dancing Script, cursive',
-    fontOpticalSizing: 'auto', // This is a newer CSS property and may not be supported in all browsers
-    fontWeight: '600', // Replace <weight> with the actual weight value you want
-    fontStyle: 'normal'
-  }}
->
-  I'm a {text}
-</h3>
+    className="
+      text-4xl sm:text-6xl md:text-8xl 
+      font-bold leading-tight 
+      text-red-500 mb-12 md:mb-20 
+      ml-[5vw] sm:ml-[10vw] md:ml-[13vw]"
+    style={{
+      fontFamily: 'Dancing Script, cursive',
+      fontWeight: 600,
+      fontStyle: 'normal',
+    }}
+  >
+    I'm a {text}
+  </h3>
+  
 
   );
 };
