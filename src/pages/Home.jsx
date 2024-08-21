@@ -396,7 +396,7 @@ const Home = () => {
             <div className="w-full md:w-1/2 flex justify-center p-4">
               <img
                 className="w-full max-w-xs md:max-w-md rounded-lg border-none hover:shadow-lg hover:scale-105 transition-transform duration-300"
-                src="https://t4.ftcdn.net/jpg/02/85/98/31/360_F_285983167_OTSjTSeRhqJ7b4TPxlQ80mC9zTiDCzMQ.jpg"
+                src="hhttps://t3.ftcdn.net/jpg/02/76/34/74/360_F_276347475_XLF6MQQ1hj85TN2TkfQtMPWju8a8Ktmh.jpg"
                 alt="image"
               />
             </div>
