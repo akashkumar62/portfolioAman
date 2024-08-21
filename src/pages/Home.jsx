@@ -63,7 +63,7 @@
 //             <div className="w-[45vw] h-[60vh] object-cover">
 //               <img
 //                 className="m-10 rounded-lg border-none hover:shadow-lg hover:scale-105"
-//                 src="https://t4.ftcdn.net/jpg/02/85/98/31/360_F_285983167_OTSjTSeRhqJ7b4TPxlQ80mC9zTiDCzMQ.jpg"
+//                 src="https://imgs.search.brave.com/fh2b_uxuz6nYEGhdnQm3kMQYxl7IbKO7EyokInwf3b8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDY0MDk1/NzAuanBn"
 //                 alt="image"
 //               />
 //             </div>
