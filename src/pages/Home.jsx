@@ -374,7 +374,7 @@ const Home = () => {
               </h1>
 
               <div className="flex flex-col md:flex-row md:justify-between items-center mt-6 space-y-4 md:space-y-0 md:space-x-12">
-  <div className="w-[20vw]">
+  <div className=" md:w-[20vw]">
     <Link
       to="/about"
       className="text-white bg-red-600 p-2 rounded-full cursor-pointer text-lg font-bold"
